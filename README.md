@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Ai-Based-Pothole-Detection-System
 LIVE DEMO: https://ai-based-pothole-detection-system-lpbf.onrender.com
 =======
